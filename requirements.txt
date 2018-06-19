@@ -4,4 +4,3 @@ youtube-dl
 pafy
 celery[redis]
 django-rest-knox
-raven

@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'knox',
     'nickelodeon',
-    'raven.contrib.django.raven_compat',
 ]
 
 MIDDLEWARE = [
